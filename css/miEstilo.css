@@ -1,0 +1,180 @@
+@media (min-width: 768px) {
+    .menus {
+        position: relative;
+        top: 40px;
+        font-size: 25px;
+        font-weight: 700;
+        text-align: left;
+        font-style: italic;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+    }
+
+    .N1 {
+        position: relative;
+        top: 50px;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+        font-weight: 800;
+        text-align: center;
+        font-size: 60px;
+    }
+
+    .N2 {
+        position: relative;
+        top: 50px;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+        font-weight: 800;
+        text-align: center;
+        font-size: 60px;
+    }
+
+    .N3 {
+        position: relative;
+        top: 50px;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+        font-weight: 800;
+        text-align: center;
+        font-size: 60px;
+    }
+
+    .footer1 {
+       
+        position: relative;
+        top: 20px;
+        right: 20px;
+        font-size: 25px;
+        font-weight: 700;
+        text-align: right;
+        font-style: italic;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+    }
+
+    .footer2 {
+        position: relative;
+        position: relative;
+        top: 20px;
+        right: -20px;
+        font-size: 25px;
+        font-weight: 700;
+        text-align: left;
+        font-style: italic;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+    }
+}
+
+@media (max-width: 767px) {
+    .menus {
+        position: relative;
+        top: 40px;
+        font-size: 25px;
+        font-weight: 700;
+        text-align: left;
+        font-style: italic;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+    }
+
+    .N1 {
+        position: relative;
+        top: 50px;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+        font-weight: 800;
+        text-align: left;
+        font-size: 60px;
+    }
+
+    .N2 {
+        position: relative;
+        top: 50px;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+        font-weight: 800;
+        text-align: right;
+        font-size: 60px;
+    }
+
+    .N3 {
+        position: relative;
+        top: 50px;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+        font-weight: 800;
+        text-align: center;
+        font-size: 60px;
+    }
+
+    .footer1 {
+        position: relative;
+        top: 20px;
+        font-size: 25px;
+        font-weight: 700;
+        text-align: center;
+        font-style: italic;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+    }
+
+    .footer2 {
+        position: relative;
+        top: 20px;
+        font-size: 25px;
+        font-weight: 700;
+        text-align: center;
+        font-style: italic;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+    }
+}
+
+@media (max-width: 575px) {
+    .menus {
+        position: relative;
+        top: 40px;
+        font-size: 25px;
+        font-weight: 700;
+        text-align: center;
+        font-style: italic;
+        font-family: Georgia, "Times New Roman", Times, serif;
+    }
+
+    .N1 {
+        position: relative;
+        top: 50px;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+        font-weight: 800;
+        text-align: left;
+        font-size: 60px;
+    }
+
+    .N2 {
+        position: relative;
+        top: 50px;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+        font-weight: 800;
+        text-align: right;
+        font-size: 60px;
+    }
+
+    .N3 {
+        position: relative;
+        top: 50px;
+        font-family: Arial Rounded MT Bold, serif, sans-serif;
+        font-weight: 800;
+        text-align: right;
+        font-size: 60px;
+    }
+
+    .footer1 {
+        position: relative;
+        top: 20px;
+        font-size: 25px;
+        font-weight: 700;
+        text-align: center;
+        font-style: italic;
+        font-family: Georgia, "Times New Roman", Times, serif;
+    }
+
+    .footer2 {
+        position: relative;
+        top: 20px;
+        font-size: 25px;
+        font-weight: 700;
+        text-align: center;
+        font-style: italic;
+        font-family: Georgia, "Times New Roman", Times, serif;
+    }
+}

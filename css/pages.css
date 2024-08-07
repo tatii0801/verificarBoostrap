@@ -1,0 +1,50 @@
+body {
+    background-color: #FFA07A;
+    width: 100%;
+}
+
+.card {
+    /* articulos */
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+#Posicionado a {
+    font-weight: 1000;
+    color: #000000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.redes {
+    position: relative;
+    top: 70px;
+}
+
+footer {
+    padding: 1.5rem;
+    color: #000000;
+    background-color: #9EE9A7;
+    font-family: Arial Rounded MT Bold, serif, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-style: italic;
+    font-size: 18px;
+
+}
+
+.botonn {
+    text-align: center;
+    display: inline-block;
+    margin: 0px;
+    font-size: 90;
+}
+
+.traducir {
+    background-color: #8080ff;
+    text-align: left;
+    font-style: italic;
+    width: 15%;
+    color: azure;
+    font-family: Arial Rounded MT Bold, serif, sans-serif;
+    margin-bottom: 1rem;
+}

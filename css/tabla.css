@@ -1,0 +1,53 @@
+.contenedor-tabla{
+    text-align: center;
+	width: 105%;
+	margin-left: 0rem;
+	margin-right: 0rem;
+	font-family: Arial Rounded MT Bold,serif,sans-serif;
+	margin-bottom: 1rem;
+}
+
+th, td{
+	padding: 0px;
+}
+.roww{
+	width: 97%;
+	background-color: #8080ff;
+	text-align: center;
+	font-family: Times New Roman,serif,sans-serif;
+	color: #ffffff;
+	margin-left: 1rem;
+	font-weight: 1000;
+}
+
+.formulario{
+    background-color: #8080ff;
+    text-align: center;
+	width: 100%;
+	font-family: Arial Rounded MT Bold,serif,sans-serif;
+	margin-bottom: 1rem;
+    
+}
+
+.formulario1{
+	background-color: #5C6BC0;
+	color: #ffffff;
+	width: 100%;
+	font-size: 15px;
+	font-family: Arial Rounded MT Bold,serif,sans-serif;
+	margin-bottom: 1rem;
+    
+}
+.conversor{
+	font-size: 20px;
+	font-weight: 100;
+}
+.encabezado{
+	text-align: center;
+	background-color: #3F51B5;
+}
+
+.boton{
+	text-align: center;
+	font-weight: 700;
+}
